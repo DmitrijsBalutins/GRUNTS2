@@ -1,0 +1,28 @@
+/* kolonas */
+.column1 {
+    float: left;
+    width: 15%;
+    height: 660px;
+    background-color: red;
+}
+
+.column2 {
+    float: left;
+    width: 22%;
+    height: 660px;
+    background-color: green;
+}
+
+.column3 {
+    float: left;
+    width: 35%;
+    height: 660px;
+    background-color: yellow;
+}
+
+.column4 {
+    float: left;
+    width: 28%;
+    height: 660px;
+    background-color: blue;
+}
